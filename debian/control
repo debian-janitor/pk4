@@ -1,6 +1,6 @@
 Source: pk4
 Section: utils
-Priority: extra
+Priority: optional
 Maintainer: Michael Stapelberg <stapelberg@debian.org>
 Build-Depends: debhelper-compat (= 13),
 	       dh-golang,
